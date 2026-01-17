@@ -24,8 +24,8 @@ function Skills() {
     { name: "CSS3", logo: <IconBrandCss3 size={48} className="text-blue-700" /> },
     { name: "JavaScript", logo: <IconBrandJavascript size={48} className="text-yellow-500" /> },
     { name: "ReactJs", logo: <IconBrandReact size={48} className="text-blue-500" /> },
-    {name: "Figma",logo: <IconBrandFigma size={48} classname="text-blue-500" />},
-{name: "Framer",logo: <IconBrandFramer size={48} classname="text-blue-500" />}
+    {name: "Figma",logo: <IconBrandFigma size={48} className="text-blue-500" />},
+{name: "Framer",logo: <IconBrandFramer size={48} className="text-blue-500" />}
   ];
 
   // Animation variants for each skill
